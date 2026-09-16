@@ -2,7 +2,7 @@
 // Simple authentication module for demo purposes.
 
 const VALID_USERNAME = 'admin';
-const VALID_PASSWORD = '9999';
+const VALID_PASSWORD = '123';
 const LOCKED_USERNAMES = ['locked_user'];
 
 //abcde
